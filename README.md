@@ -2,4 +2,4 @@
 
 ### Screenshot
 
-<img src="./screenshots/ss01.jpg" width="350px" />
+<img src="./screenshots/tic-tac-toe.jpg" width="350px" />
